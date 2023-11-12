@@ -23,6 +23,6 @@
     }
   },
   "backend": {
-    "imageid": "centos"
+    "imageid": "ubuntu"
   }
 }
